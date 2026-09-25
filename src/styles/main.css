@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  color: #222;
+}
+* {
+  box-sizing: border-box;
+}
+a {
+  color: #0066cc;
+}
